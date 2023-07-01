@@ -47,7 +47,14 @@ https://github.com/Sailormoon10/starbucks/assets/68756541/fda727b3-14f9-4a97-867
 <img width="1440" alt="website 2" src="https://github.com/Sailormoon10/starbucks/assets/68756541/79bd3dc5-60fd-488f-ad93-92a9ee689997">
 
 - Delivery: The delivery section promotes ordering through DoorDash, providing a brief description and an order button.
+<img width="1440" alt="delivery" src="https://github.com/Sailormoon10/starbucks/assets/68756541/570c78b4-7046-4b72-9389-decb641095d0">
+
 - App: The app section promotes downloading the Starbucks mobile app, providing information and a download button.
+  
+<img width="1440" alt="download app" src="https://github.com/Sailormoon10/starbucks/assets/68756541/5c61df0f-caa3-4af5-bdd7-31b8f73bb4e9">
+
 - About: The about section highlights the unique aspects of Starbucks and provides additional details.
 - Contact: The contact section displays social media links and additional links related to privacy, terms of use, and the company.
+  
+<img width="1440" alt="footer" src="https://github.com/Sailormoon10/starbucks/assets/68756541/82d60a5a-6710-4af1-97ab-e5b23ec1a8bb">
 
