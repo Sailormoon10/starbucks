@@ -43,6 +43,9 @@ https://github.com/Sailormoon10/starbucks/assets/68756541/fda727b3-14f9-4a97-867
 - Navbar: A navigation bar at the top of the page allows users to easily navigate between different sections.
 - Home: The home section displays a welcome message, the Starbucks Coffee logo, and a call-to-action button to join.
 - Shop: The shop section showcases different coffee products with images, ratings, prices, and order buttons.
+
+<img width="1440" alt="website 2" src="https://github.com/Sailormoon10/starbucks/assets/68756541/79bd3dc5-60fd-488f-ad93-92a9ee689997">
+
 - Delivery: The delivery section promotes ordering through DoorDash, providing a brief description and an order button.
 - App: The app section promotes downloading the Starbucks mobile app, providing information and a download button.
 - About: The about section highlights the unique aspects of Starbucks and provides additional details.
