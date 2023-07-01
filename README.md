@@ -36,6 +36,8 @@ The Starbucks website is developed using the following technologies:
 ## Features
 
 The website includes the following features:
+https://github.com/Sailormoon10/starbucks/assets/68756541/fda727b3-14f9-4a97-8671-8b432a28da9d
+
 
 - Responsive design: The website adapts to different screen sizes and devices, providing an optimal viewing experience.
 - Navbar: A navigation bar at the top of the page allows users to easily navigate between different sections.
