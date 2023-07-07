@@ -39,9 +39,6 @@ The website includes the following features:
 
 https://github.com/Sailormoon10/starbucks/assets/68756541/11704356-5590-49bb-b6bc-5d2649748697
 
-https://github.com/Sailormoon10/starbucks/assets/68756541/fda727b3-14f9-4a97-8671-8b432a28da9d
-
-
 - Responsive design: The website adapts to different screen sizes and devices, providing an optimal viewing experience.
 - Navbar: A navigation bar at the top of the page allows users to easily navigate between different sections.
 - Home: The home section displays a welcome message, the Starbucks Coffee logo, and a call-to-action button to join.
