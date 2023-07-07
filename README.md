@@ -36,6 +36,9 @@ The Starbucks website is developed using the following technologies:
 ## Features
 
 The website includes the following features:
+
+https://github.com/Sailormoon10/starbucks/assets/68756541/11704356-5590-49bb-b6bc-5d2649748697
+
 https://github.com/Sailormoon10/starbucks/assets/68756541/fda727b3-14f9-4a97-8671-8b432a28da9d
 
 
